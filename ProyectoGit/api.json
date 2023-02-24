@@ -1,0 +1,87 @@
+[
+    {
+        "precio" :30.00 ,
+        "id" : 1 ,
+        "title" : "Cheetos Mac n Cheese",
+        "thumbnailUrl" : "https://clasesfpd.000webhostapp.com/Imagenes%20Cine/Producto%201.png"
+    },
+
+    {
+        "precio" :35.00 ,
+        "id" : 2 ,
+        "title" : "Pringles Wavy",
+        "thumbnailUrl" : "https://clasesfpd.000webhostapp.com/Imagenes%20Cine/Producto%202.png"
+    },
+
+    {
+        "precio" :15.00 ,
+        "id" : 3 ,
+        "title" : "Snickers Calavaza",
+        "thumbnailUrl" : "https://clasesfpd.000webhostapp.com/Imagenes%20Cine/Producto%203.png"
+    },
+
+    {
+        "precio" :52.00 ,
+        "id" :  4 ,
+        "title" : "Pack Chocolates",
+        "thumbnailUrl" : "https://clasesfpd.000webhostapp.com/Imagenes%20Cine/Producto%204.png"
+    },
+
+    {
+        "precio" :10.00 ,
+        "id" : 5 ,
+        "title" : "Lucas mango",
+        "thumbnailUrl" : "https://clasesfpd.000webhostapp.com/Imagenes%20Cine/Producto%205.png"
+    },
+
+    {
+        "precio" :12.00 ,
+        "id" : 6 ,
+        "title" : "Dr Pepper Cereza",
+        "thumbnailUrl" : "https://clasesfpd.000webhostapp.com/Imagenes%20Cine/Producto%206.png"
+    },
+
+    {
+        "precio" :15.00,
+        "id" : 7 ,
+        "title" : "Cheetos Palomitas",
+        "thumbnailUrl" : "https://clasesfpd.000webhostapp.com/Imagenes%20Cine/Producto%207.png"
+    },
+
+    {
+        "precio" :25.00 ,
+        "id" : 8 ,
+        "title" : "Sour Patch",
+        "thumbnailUrl" : "https://clasesfpd.000webhostapp.com/Imagenes%20Cine/Producto%208.png"
+    },
+
+    {
+        "precio" :85.00 ,
+        "id" : 9 ,
+        "title" : "Takis Mini Mix",
+        "thumbnailUrl" : "https://clasesfpd.000webhostapp.com/Imagenes%20Cine/Producto%209.png"
+    },
+
+    {
+        "precio" : 15.00 ,
+        "id" : 10 ,
+        "title" : "Snickers Almendra",
+        "thumbnailUrl" : "https://clasesfpd.000webhostapp.com/Imagenes%20Cine/Producto%2010.png"
+    },
+
+    {
+        "precio" : 17.00 ,
+        "id" : 11,
+        "title" : "Ice Breaker Limon y Cereza",
+        "thumbnailUrl" : "https://clasesfpd.000webhostapp.com/Imagenes%20Cine/Producto%2011.png"
+    },
+
+    {
+        "precio" : 32.00 ,
+        "id" : 12 ,
+        "title" : "HotDog",
+        "thumbnailUrl" : "https://clasesfpd.000webhostapp.com/Imagenes%20Cine/Producto%2012.png"
+    }
+
+
+]
